@@ -49,7 +49,7 @@ def compute(d):
 
 
 if __name__ == "__main__":
-    parser = argparse.ArgumentParser("python3 digest.py")
+    parser = argparse.ArgumentParser("python3 main.py")
     requiredArgs = parser.add_argument_group("required arguments")
 
 

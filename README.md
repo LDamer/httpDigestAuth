@@ -1,2 +1,2 @@
 # httpDigestAuth
-dictionary attack on captured successfull digest authenticatons
+dictionary attack on captured successfull digest authenticaton
